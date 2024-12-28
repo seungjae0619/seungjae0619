@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:011f4b,10:03396c,30:005b96,75:6497b1,100:b3cde0&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:011f4b,10:03396c,30:005b96,75:6497b1,100:b3cde0&height=150&section=header&text=&fontSize=0" width="100%"/>
 
 <h2 align="center">👋 Hello, I'm Seungjae</h2> 
 
