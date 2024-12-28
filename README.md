@@ -4,6 +4,7 @@
 
 <details align="center">
   <summary align="center"> About Me </summary>
+  Hello, I'm a student studying frontend developement!
 </details>
 
 <h3 align="center">⭐️ Tech Skills ⭐️</h3>
