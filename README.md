@@ -23,4 +23,4 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:011f4b,10:03396c,30:005b96,75:6497b1,100:b3cde0&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
