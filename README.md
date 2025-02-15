@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:011f4b,10:03396c,30:005b96,75:6497b1,100:b3cde0&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-<h2 align="center">👋 Hello, I'm Seungjae</h2> 
-
-<details align="center">
-  <summary align="center"> About Me </summary>
-  Hello, I'm a student studying frontend developement!
-</details>
-
 <h3 align="center">🛠️ Tech Skills 🛠️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
