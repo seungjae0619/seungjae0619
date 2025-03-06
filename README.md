@@ -1,3 +1,4 @@
+<hr></hr>
 <h3 align="center">🛠️ Tech Skills 🛠️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
