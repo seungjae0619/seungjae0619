@@ -9,7 +9,7 @@
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=Tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
