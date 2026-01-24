@@ -18,9 +18,6 @@
 <h3 align="center">📩 Contact 📩</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/andrewpark0619@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a href="https://www.instagram.com/tmdwo0619/">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
 </div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg
