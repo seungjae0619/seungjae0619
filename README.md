@@ -15,10 +15,5 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 
-<h3>📩 Contact 📩</h3>
-<div>
-  <img src="https://img.shields.io/badge/andrewpark0619@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
-
 ![](./profile-3d-contrib/profile-night-view.svg
 )
